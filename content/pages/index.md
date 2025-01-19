@@ -17,9 +17,10 @@ sections:
       AI Architect, Systems Innovator, and Digital Visionary – Transforming
       Project Controls and Beyond
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      This is my body of work—years of expertise in AI, systems architecture,
+      and project intelligence, all in one place. Explore my contributions,
+      innovations, and credentials to see how I can bring value to your next
+      project.
     styles:
       self:
         height: auto
