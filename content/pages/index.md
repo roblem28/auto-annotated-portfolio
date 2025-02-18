@@ -70,7 +70,7 @@ sections:
       type: ImageBlock
       url: /images/Born Lightwalker.PNG
       altText: Hero image
-      caption: Caption of the image
+      caption: Born Lightwalker
       elementId: ''
     colors: colors-c
     backgroundSize: full
