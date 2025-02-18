@@ -68,7 +68,7 @@ sections:
         elementId: ''
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/Born Lightwalker.PNG
       altText: Hero image
       caption: Caption of the image
       elementId: ''
