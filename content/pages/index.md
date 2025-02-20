@@ -53,9 +53,11 @@ sections:
       I'm a developer, digital artist, consultant and a bunch of other
       impressive titles and buzz words.
     subtitle: >-
-      This is my info—I'm sharing it all this with ya'll to impress you with all
-      the hard work I've done in the past few years. Once you're impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      I’m sharing this information to highlight the dedication and hard work
+      I’ve invested over the past few years. I hope it showcases my achievements
+      and the expertise I’ve developed. Please feel free to continue reviewing
+      the additional details and credentials that provide further insight into
+      my experience and qualifications.
     actions:
       - type: Button
         label: Hire me
