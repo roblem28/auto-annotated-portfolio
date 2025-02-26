@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: One more cool project
 colors: colors-a
-date: '2023-02-22'
+date: '2025-02-22'
 client: BoxofRox AI
 description: >-
   It’s hard to imagine that I’ve that I wrote all this code by myself, probably
