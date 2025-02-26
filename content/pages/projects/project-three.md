@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: One more cool project
+title: AI
 colors: colors-a
 date: '2025-02-22'
 client: BoxofRox AI
