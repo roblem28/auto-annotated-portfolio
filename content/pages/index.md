@@ -49,9 +49,7 @@ sections:
     type: HeroSection
     actions: []
   - type: HeroSection
-    title: >-
-      I'm a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+    title: "I'm aN AI developer, ,digital artist\_ and a bunch of other impressive titles and buzz words."
     subtitle: >-
       I’m sharing this information to highlight the dedication and hard work
       I’ve invested over the past few years. I hope it showcases my achievements
