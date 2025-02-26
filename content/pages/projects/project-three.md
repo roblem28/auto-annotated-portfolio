@@ -4,10 +4,7 @@ title: AI
 colors: colors-a
 date: '2025-02-22'
 client: BoxofRox AI
-description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+description: 'These are the AI projects I have either completed or dreamed of. '
 featuredImage:
   type: ImageBlock
   url: /images/bg3.jpg
