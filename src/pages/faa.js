@@ -13,6 +13,13 @@ export default function FAA() {
   return (
     <main style={{ padding: "2rem", fontFamily: "sans-serif" }}>
       <h1>Latest FAA Notices</h1>
+
+      <img
+        src="/A_logo_representing_the_Federal_Aviation_Administr.png"
+        alt="FAA Logo"
+        style={{ width: "180px", height: "auto", marginBottom: "2rem" }}
+      />
+
       <ul style={{ listStyle: "none", paddingLeft: 0 }}>
         {docs.length === 0 && <li>Loading FAA documents…</li>}
         {docs.map((doc) => (
